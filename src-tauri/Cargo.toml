@@ -1,7 +1,7 @@
 [package]
 name = "Cleo"
-version = "0.0.0"
-description = "A Tauri App"
+version = "0.1.0"
+description = "Cleo"
 authors = ["you"]
 license = ""
 repository = ""
